@@ -23,7 +23,7 @@ Modern agriculture is increasingly vulnerable to unpredictable weather patterns,
 * **Cloud Infrastructure:** `IBM watsonx.ai Platform` (Hosted via the Asia-Pacific regional instance `https://au-syd.ml.cloud.ibm.com`).
 * **Core LLM Engine:** `ibm/granite-8b-code-instruct`.
   * *Configuration:* Temperature: `0.1`, Top P: `0.9` (Tuned for precise, hallucination-free technical advice).
-* **User Interface:** `Streamlit / React Dashboard` concept integrated via LangFlow API nodes.
+
 
 ---
 
